@@ -6,7 +6,11 @@ Deep Learning Model: Uses CNNs with data augmentation for accurate results.
 Fast & Efficient Deployment: Powered by TensorFlow Serving, FastAPI, and TensorFlow Lite.
 Web & Mobile-Friendly: React.js-based user-friendly interface for easy access.
 Tech Stack
+
 Frontend: React.js
+
 Backend: FastAPI
+
 ML Model: TensorFlow, CNNs
+
 Deployment: TensorFlow Serving, TensorFlow Lite
